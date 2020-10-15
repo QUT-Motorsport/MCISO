@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [QUTMS-MCISO-V00.PrjPcb]
+   Generated File[MCISO-B00-V00.TXT]
+   Generated File[MCISO-B00-V00.LDP]
+   Generated File[MCISO-B00-V00.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:48:51 PM On 17/08/2020

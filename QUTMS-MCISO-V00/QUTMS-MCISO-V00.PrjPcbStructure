@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=MCISO-S00-V00-MotorcontrollerIsolation.SchDoc
+Record=SheetSymbol|SourceDocument=MCISO-S00-V00-MotorcontrollerIsolation.SchDoc|Designator=MCISO-S01-V00-PSU|SchDesignator=MCISO-S01-V00-PSU|FileName=MCISO-S01-V00-PSU.SchDoc|SymbolType=Normal|RawFileName=MCISO-S01-V00-PSU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MCISO-S00-V00-MotorcontrollerIsolation.SchDoc|Designator=MCISO-S01-V00-PSUISO|SchDesignator=MCISO-S01-V00-PSUISO|FileName=MCISO-S01-V00-PSUISO.SchDoc|SymbolType=Normal|RawFileName=MCISO-S01-V00-PSUISO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
